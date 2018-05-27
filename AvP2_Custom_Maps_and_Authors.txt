@@ -1,6 +1,6 @@
 // ----------------------------------------------------------------------- //
 //
-// Information : Complete Map List of Ultimate Map Pack 3 including Creator
+// Information : Complete Map List of Ultimate Map Pack 2.4 including Creator
 //              names and/or alias
 //
 // CREATED : 9/3/08
@@ -267,7 +267,7 @@ DM_RECSTREET                             Imp Hunter
 DM_RED_STORAGE_LEVEL                     Nivel 426's M2 & M3
 DM_REMIX1_INDUSTRY                       David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777
 DM_REMIX2_INDUSTRY                       David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777
-DM_RFW_RIVEROUTPOST                      RFW Clan
+DM_RFW_RIVEROUTPOST                      =RFW= Kev_M a.k.a. kevmscotland
 DM_RITEOFPASSAGE                         Snoball
 DM_RODSERLINGSGIANTINFESTEDSCROTUM       Phil 'Windebieste' Wlodarczyk
 DM_RUINOUS                               Phil 'Windebieste' Wlodarczyk
