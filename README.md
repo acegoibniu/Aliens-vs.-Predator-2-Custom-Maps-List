@@ -1,4 +1,4 @@
-# Aliens-vs.-Predator-2-Custom-Maps-List
+# Aliens vs. Predator 2 Custom Maps List
 This is documentation of publicly released Aliens vs. Predator 2 (AvP 2) custom maps and its attributed authors.
 
 AvP 2 custom maps are any non-officially published levels for the Aliens vs. Predator 2 game (https://en.wikipedia.org/wiki/Aliens_versus_Predator_2). These maps were created by AvP 2 community members.
