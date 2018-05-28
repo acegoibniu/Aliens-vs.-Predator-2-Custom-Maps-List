@@ -1,12 +1,10 @@
 // ----------------------------------------------------------------------- //
 //
-// Information : Complete Map List of Ultimate Map Pack 2.4 including Creator
-//              names and/or alias
+// Information : Complete Custom Map List with authors' names or aliases
 //
 // CREATED : 9/3/08
 //
-// Note : Tracking down every mapper wasn't easy and sometimes not possible,
-//        There are maps where the creator is unknown and unable to be listed
+// Note : There are maps where the creator is unknown and unable to be listed
 //        {UNK}: The mapper is unknown
 //
 // Contact : 
