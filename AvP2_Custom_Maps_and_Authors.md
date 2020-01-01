@@ -65,8 +65,8 @@
 |AVP|Hudson Hicks Ontario||
 |AVP_COMMUNITY_GALLERY|Phil 'Windebieste' Wlodarczyk||
 |Avp_Extintcion|Dark Shadow||
-|AVP2_ISHIMURA|||
-|AVP2_Lila_Panic|||
+|AVP2_ISHIMURA|Hudson Hicks Ontario ||
+|AVP2_Lila_Panic|Hudson Hicks Ontario ||
 |AVP2SNIPERMAP|Hudson Hicks Ontario||
 |AVP2world|Hudson Hicks Ontario||
 |AvpJunlgeMaze|Dark Shadow||
@@ -246,7 +246,7 @@
 |DM_OUTCAST|Nivel 426||
 |DM_outpost29|Hudson Hicks Ontario||
 |DM_outpost29SE|Hudson Hicks Ontario||
-|DM_OVERWATCH|Kevin 'Trick'Standley a.k.a. Trickie||
+|DM_OVERWATCH|Kevin 'Trick' Standley a.k.a. Trickie||
 |DM_PDTEMPLE|Ctellis156||
 |DM_PIPER_MARU|Nivel 426||
 |DM_playclub|Unknown Orig. Author & HHO|HHO finished and released this map.|
@@ -321,8 +321,8 @@
 |EGC_ALPHASITE|=EGC= Osiris {CL} a.k.a. (Osiris)||
 |FIORINAS_LEAD_COMPLEX|JP54||
 |FORTRESS|Hudson Hicks Ontario||
-|FORTRESS2|||
-|FORTRESS2dark|||
+|FORTRESS2|Hudson Hicks Ontario ||
+|FORTRESS2dark|Hudson Hicks Ontario ||
 |FU_]I[SETH]I[|Deadfret [fu]||
 |FU_AFTERMATH|Deadfret [fu]||
 |FU_ALESSERMORE|Deadfret [fu]||
@@ -616,7 +616,7 @@
 |EVAC_STRANDED|STEF1204  Windebieste(?)||
 |EVAC_TERRAFORM_ALPHACLAN|Ken 'Dutch [K]' Hawver||
 |EVAC-ISOLATIONCHAMBER1.4|[EEM]Jani[FIN]||
-|FORTRESS2_evac|||
+|FORTRESS2_evac|Hudson Hicks Ontario ||
 |INFESTATION_MORGANA_EVAC|Morgana||
 |MIKEYS_HOPE_ALPHACLAN|Mike 'ShockWolF' Brockbank||
 |PITCHBLACK|9th CMD's Poet||
