@@ -406,7 +406,7 @@
 |LONDON_SEWER|Joel 'Cookiepuss' Smith||
 |LOST_SOULS_KW|Hudson Hicks Ontario||
 |LOST-TEMPLES1|Hudson Hicks Ontario||
-|MAGMA'S_RETURN|||
+|MAGMA'S_RETURN|Inferno Magma||
 |MARINE_BASE_A1|Hudson Hicks Ontario||
 |MERAL_TOXIC|Toxic of Nivel 426||
 |MP_IVAN3|OOedd||
@@ -496,7 +496,7 @@
 |SW_DEATHSTAR_V2|Hudson Hicks Ontario||
 |SW_REPUBLIC_DESTROYER|Artalavista||
 |SW_TATOOINE|Artalavista||
-|T.I-HQ|||
+|T.I-HQ|Inferno Magma||
 |TDS_DM_POD|[TDS]Claws n Jaws||
 |TDS_TRAINING|[TDS]Claws n Jaws||
 |THE FRAG BOX|Chris 'Tutonic Monkey' Hoge||
