@@ -16,4 +16,5 @@ I do not think it is necessary to document every last map. A map is to be omitte
 
 
 Version History:
+Winter 2020 -- Added different types of files displaying the list and scripts for automatically generating those files.
 Fall 2008 -- Started compiling the list.
