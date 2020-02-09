@@ -100,9 +100,9 @@
 |DM_[TKTN]FACTORY|Le Celticant||
 |DM_=SA=WINTERHEAT|Iain 'iARt' Bruce||
 |DM_1ON_DUEL|SK_Dragonic_valley||
-|DM_1ON1_UPTHERE|RavagerDX||
+|DM_1ON1_UPTHERE_V1-1|Wesley 'RavagerDX' Donker||
 |dm_abattoir|Jim Gaul||
-|dm_abrechnung_v1.0|Ben 'Alien' Ryde||
+|DM_ABRECHNUNG_1.2|Ben 'Alien' Ryde||
 |DM_ACID_DREAM|Matthew 'Emerald Yautja' Schiller||
 |DM_ADARKKERFATE_RC_V1_1|Redclaw||
 |DM_ADMISSION_PRICE|Nivel 426's M1||
@@ -152,7 +152,8 @@
 |DM_BW.STEADFAST|{B.W.} Hudson||
 |DM_BW.SULACO|{B.W.} Hudson||
 |DM_CALIMA_TOX|Nivel 426's Toxic||
-|DM_CANUMAKEIT_V2.0|RavagerDx||
+|DM_CANUMAKEIT_V1.1|Wesley 'RavagerDX' Donker||
+|DM_CANUMAKEIT_V2.0|Wesley 'RavagerDX' Donker||
 |DM_CASTAWAY|Red Riot||
 |DM_CASTAWAY_STORM|Red Riot||
 |DM_cave|Unknown Orig. Author & HHO|HHO finished and released the map|
@@ -246,6 +247,7 @@
 |DM_OUTCAST|Nivel 426||
 |DM_outpost29|Hudson Hicks Ontario||
 |DM_outpost29SE|Hudson Hicks Ontario||
+|dm_outpost54|JP54||
 |DM_OVERWATCH|Kevin 'Trick' Standley a.k.a. Trickie||
 |DM_PDTEMPLE|Ctellis156||
 |DM_PIPER_MARU|Nivel 426||
@@ -303,10 +305,11 @@
 |DM_WAREHOUSE|Bastiaan 'Aquaflight' Pot||
 |DM_WAREHOUSE2|Seph|Originally named dm_warehouse, First custom multiplayer map released|
 |DM_WARPED|Arjan||
-|DM_WATERFACILITY|RavagerDX||
+|DM_WATERFACILITY|Wesley 'RavagerDX' Donker||
 |DM_WESTEND|Fart Head {TBW}||
 |DM_WEYLAND|Hudson Hicks Ontario||
 |DM_worx|Unknown Orig. Author & HHO|HHO finished and released this map.|
+|DM_WY_COMPLEX|Celtic Elder Z3rATuL a.k.a. Monsieur_Z3rA||
 |DM_XENOCORTEX|Phil 'Windebieste' Wlodarczyk & PsyKore|Phil W. finished and released this map.|
 |DM_XENOPLANT|||
 |DM_Y69_HOMEWORLD|Nivel 426||
@@ -477,6 +480,7 @@
 |SK_NUCLEAR1.5|Cyburk||
 |SK_PRECIPICE|Phil 'Windebieste' Wlodarczyk||
 |SK_RUINOUS|Phil 'Windebieste' Wlodarczyk||
+|SK_ZELFMOORDMISSIE|Wesley 'RavagerDX' Donker||
 |SKM_STRANDED_REDUX|Phil 'Windebieste' Wlodarczyk||
 |SKM_TARBABY|Phil 'Windebieste' Wlodarczyk||
 |SKP_STRANDED_REDUX|Phil 'Windebieste' Wlodarczyk||
@@ -489,7 +493,7 @@
 |STAR_WARS_2|Hudson Hicks Ontario||
 |STAR_WARS_3|Hudson Hicks Ontario||
 |Station_51|Tutonic Monkey, The One, & HHO|HHO finished and released this map|
-|STRANDED12|||
+|STRANDED12|Coty||
 |SURVIVORTOWER|Tz||
 |SW_bespin_v2|Hudson Hicks Ontario||
 |SW_DEATHSTAR|Hudson Hicks Ontario||
@@ -602,6 +606,7 @@
 |EVAC_CASTAWAY_STORM|Red Riot||
 |EVAC_CYB_MOOR|Cyburk||
 |EVAC_CYB_NEBEL 1.1|Cyburk||
+|EVAC_DE_DAYLIGHT|||
 |EVAC_INDUSTRY|David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777||
 |EVAC_JUNGLE_PASSWORD|Red Riot||
 |EVAC_JUNGLE_STANDARD|Red Riot||
@@ -624,3 +629,30 @@
 |SUK-STRONGHOLD_EVAC|Imp Hunter||
 |TDS_EVAC_POD|[TDS]Claws n Jaws||
 |Toxic Feud|Drex||
+
+
+## Single Player Levels
+
+|Map Name|Author(s)|Comment|
+|---------------------------------------|---------------------------------------|---------------------------------------|
+|ALLEY_ALIEN|Sasa.cz|Also known as ALLEY WITCH AI|
+|Crash Land|Modmaker||
+|ELECTROTURD|Phil 'Windebieste' Wlodarczyk||
+|Fear 1|Brian 'PsyKore' Irving||
+|Fear 2|Brian 'PsyKore' Irving||
+|Friendly Welcome|Red_Riot||
+|FROSTY`S_NIGHTMARE|Cyburk||
+|Gas Facility|Martin 'Alf-Life' Badowsky||
+|Morlock|Phil 'Windebieste' Wlodarczyk||
+|RTS2|Coty||
+|BASE-13F|Hunter-T||
+|CELTIC-RITESOFPASSAGES|Le Celticant||
+|FORESTBUNKER|Hunter-T||
+|GOLD-TEMPLE|Le Celticant||
+|snoball-pred1|Snoball||
+|snoball-pred2|Snoball||
+|Temple of the Worm|Phil 'Windebieste' Wlodarczyk||
+|DM_outpost29|Hudson Hicks Ontario||
+|RC_SAVING_PVT_REDCLAW_SKIRM_V1_17F|Redclaw||
+|SKM-TROOPERSTYLE|Phil 'Windebieste' Wlodarczyk||
+|SKM_RODSERLINGSGIANTINFESTEDSCROTUM|Phil 'Windebieste' Wlodarczyk||
