@@ -3556,5 +3556,119 @@
     "name": "TOXIC FEUD",
     "creator": "Drex",
     "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "ALLEY_ALIEN",
+    "creator": "Sasa.cz",
+    "comment": "Also known as ALLEY WITCH AI"
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "Crash Land",
+    "creator": "Modmaker",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "ELECTROTURD",
+    "creator": "Phil 'Windebieste' Wlodarczyk",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "Fear 1",
+    "creator": "Brian 'PsyKore' Irving",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "Fear 2",
+    "creator": "Brian 'PsyKore' Irving",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "Friendly Welcome",
+    "creator": "Red_Riot",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "FROSTY`S_NIGHTMARE",
+    "creator": "Cyburk",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "Gas Facility",
+    "creator": "Martin 'Alf-Life' Badowsky",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "Morlock",
+    "creator": "Phil 'Windebieste' Wlodarczyk",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "RTS2",
+    "creator": "Coty",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "BASE-13F",
+    "creator": "Hunter-T",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "CELTIC-RITESOFPASSAGES",
+    "creator": "Le Celticant",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "FORESTBUNKER",
+    "creator": "Hunter-T",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "GOLD-TEMPLE",
+    "creator": "Le Celticant",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "snoball-pred1",
+    "creator": "Snoball",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "snoball-pred2",
+    "creator": "Snoball",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "Temple of the Worm",
+    "creator": "Phil 'Windebieste' Wlodarczyk",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "DM_outpost29",
+    "creator": "Hudson Hicks Ontario",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "RC_SAVING_PVT_REDCLAW_SKIRM_V1_17F",
+    "creator": "Redclaw",
+    "comment": ""
   }
 ]
