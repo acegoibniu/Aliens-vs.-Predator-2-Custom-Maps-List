@@ -559,8 +559,8 @@
   },
   {
     "mode": "DM",
-    "name": "DM_1ON1_UPTHERE",
-    "creator": "RavagerDX",
+    "name": "DM_1ON1_UPTHERE_V1-1",
+    "creator": "Wesley 'RavagerDX' Donker",
     "comment": ""
   },
   {
@@ -571,7 +571,7 @@
   },
   {
     "mode": "DM",
-    "name": "dm_abrechnung_v1.0",
+    "name": "DM_ABRECHNUNG_1.2",
     "creator": "Ben 'Alien' Ryde",
     "comment": ""
   },
@@ -871,8 +871,14 @@
   },
   {
     "mode": "DM",
+    "name": "DM_CANUMAKEIT_V1.1",
+    "creator": "Wesley 'RavagerDX' Donker",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "DM_CANUMAKEIT_V2.0",
-    "creator": "RavagerDx",
+    "creator": "Wesley 'RavagerDX' Donker",
     "comment": ""
   },
   {
@@ -1435,6 +1441,12 @@
   },
   {
     "mode": "DM",
+    "name": "dm_outpost54",
+    "creator": "JP54",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "DM_OVERWATCH",
     "creator": "Kevin 'Trick' Standley a.k.a. Trickie",
     "comment": ""
@@ -1778,7 +1790,7 @@
   {
     "mode": "DM",
     "name": "DM_WATERFACILITY",
-    "creator": "RavagerDX",
+    "creator": "Wesley 'RavagerDX' Donker",
     "comment": ""
   },
   {
@@ -1798,6 +1810,12 @@
     "name": "DM_worx",
     "creator": "Unknown Orig. Author & HHO",
     "comment": "HHO finished and released this map."
+  },
+  {
+    "mode": "DM",
+    "name": "DM_WY_COMPLEX",
+    "creator": "Celtic Elder Z3rATuL a.k.a. Monsieur_Z3rA",
+    "comment": ""
   },
   {
     "mode": "DM",
@@ -2821,6 +2839,12 @@
   },
   {
     "mode": "DM",
+    "name": "SK_ZELFMOORDMISSIE",
+    "creator": "Wesley 'RavagerDX' Donker",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "SKM_STRANDED_REDUX",
     "creator": "Phil 'Windebieste' Wlodarczyk",
     "comment": ""
@@ -2894,7 +2918,7 @@
   {
     "mode": "DM",
     "name": "STRANDED12",
-    "creator": "",
+    "creator": "Coty",
     "comment": ""
   },
   {
@@ -3225,6 +3249,12 @@
     "mode": "EVAC",
     "name": "EVAC_CYB_NEBEL 1.1",
     "creator": "Cyburk",
+    "comment": ""
+  },
+  {
+    "mode": "EVAC",
+    "name": "EVAC_DE_DAYLIGHT",
+    "creator": "",
     "comment": ""
   },
   {
@@ -3669,6 +3699,18 @@
     "mode": "SINGLEPLAYER",
     "name": "RC_SAVING_PVT_REDCLAW_SKIRM_V1_17F",
     "creator": "Redclaw",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "SKM-TROOPERSTYLE",
+    "creator": "Phil 'Windebieste' Wlodarczyk",
+    "comment": ""
+  },
+  {
+    "mode": "SINGLEPLAYER",
+    "name": "SKM_RODSERLINGSGIANTINFESTEDSCROTUM",
+    "creator": "Phil 'Windebieste' Wlodarczyk",
     "comment": ""
   }
 ]
