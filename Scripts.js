@@ -37,6 +37,9 @@ function ProduceMDTableByGameMode(MapsData) {
   
   Result += "\n\n## Evac Levels\n\n";
   Result += ProduceMDTable(MapsData, "EVAC");
+  
+  Result += "\n\n## Single Player Levels\n\n";
+  Result += ProduceMDTable(MapsData, "SINGLEPLAYER");
     
   return (Result);
 }
@@ -73,6 +76,9 @@ function ProduceTXTReportByGameMode(MapsData) {
   
   Result += "\n\n===Evac Levels===\n\n";
   Result += ProduceTXTReport(MapsData, "EVAC");
+  
+  Result += "\n\n===Single Player Levels===\n\n";
+  Result += ProduceTXTReport(MapsData, "SINGLEPLAYER");
     
   return (Result);
 }
