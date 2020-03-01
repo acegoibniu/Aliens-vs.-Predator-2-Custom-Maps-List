@@ -1315,6 +1315,12 @@
   },
   {
     "mode": "DM",
+    "name": "dm_lockout",
+    "creator": "Jeff 'The_One' Attwood",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "DM_Loki_Station",
     "creator": "Matthew 'Emerald Yautja' Schiller",
     "comment": ""
