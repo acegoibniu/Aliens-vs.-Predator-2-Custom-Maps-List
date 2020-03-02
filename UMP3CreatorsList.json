@@ -265,6 +265,12 @@
   },
   {
     "mode": "DM",
+    "name": "9THCMD_DM_THE HIVEBETA4",
+    "creator": "Dark Angael",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "9THCMD_DM_THE_ROCK",
     "creator": "Poet",
     "comment": ""
@@ -3219,6 +3225,18 @@
     "mode": "EVAC",
     "name": "9thCMD_EVAC_LAVAFIELDS",
     "creator": "9th CMD's Amun-Ra",
+    "comment": ""
+  },
+  {
+    "mode": "EVAC",
+    "name": "9THCMD_EVAC_SUBWAY_BETA",
+    "creator": "9th CMD's Amun-Ra",
+    "comment": ""
+  },
+  {
+    "mode": "EVAC",
+    "name": "9THCMD_EVAC_THE_ROCK",
+    "creator": "9th CMD's Poet",
     "comment": ""
   },
   {
