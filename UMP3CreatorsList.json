@@ -247,8 +247,26 @@
   },
   {
     "mode": "DM",
+    "name": "9THCMD_DM_NEOCOLLOSEUM",
+    "creator": "Dead Evil",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "9THCMD_DM_PURGE",
     "creator": "9th CMD's Gryph",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
+    "name": "9THCMD_DM_SUBWAY_BETA",
+    "creator": "9th CMD's Amun-Ra",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
+    "name": "9THCMD_DM_THE_ROCK",
+    "creator": "Poet",
     "comment": ""
   },
   {
@@ -3260,7 +3278,7 @@
   {
     "mode": "EVAC",
     "name": "EVAC_DE_DAYLIGHT",
-    "creator": "",
+    "creator": "Dead Evil",
     "comment": ""
   },
   {
