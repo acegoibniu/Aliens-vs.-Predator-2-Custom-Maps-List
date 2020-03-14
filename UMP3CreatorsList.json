@@ -1729,6 +1729,12 @@
   },
   {
     "mode": "DM",
+    "name": "DM_STORAGEYARD",
+    "creator": "JP54",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "DM_STRANDED_REDUX",
     "creator": "Phil 'Windebieste' Wlodarczyk",
     "comment": ""
@@ -1749,6 +1755,12 @@
     "mode": "DM",
     "name": "DM_TARBABY",
     "creator": "Phil 'Windebieste' Wlodarczyk",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
+    "name": "DM_TEMPLE",
+    "creator": "JP54",
     "comment": ""
   },
   {
@@ -3345,6 +3357,18 @@
     "mode": "EVAC",
     "name": "EVAC_MACHINE",
     "creator": "David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777",
+    "comment": ""
+  },
+  {
+    "mode": "EVAC",
+    "name": "EVAC_MORIA",
+    "creator": "JP54",
+    "comment": ""
+  },
+  {
+    "mode": "EVAC",
+    "name": "EVAC_NOSTROMO",
+    "creator": "JP54",
     "comment": ""
   },
   {
