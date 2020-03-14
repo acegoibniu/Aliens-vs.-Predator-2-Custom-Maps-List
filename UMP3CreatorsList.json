@@ -1063,6 +1063,12 @@
   },
   {
     "mode": "DM",
+    "name": "dm_drydock",
+    "creator": "Phil 'Windebieste' Wlodarczyk",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "DM_ELECTROTURD",
     "creator": "Phil 'Windebieste' Wlodarczyk",
     "comment": ""
@@ -3171,6 +3177,12 @@
     "mode": "DM",
     "name": "WATERYGRAVE",
     "creator": "Joel 'Cookiepuss' Smith",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
+    "name": "WC",
+    "creator": "Roman Friedl",
     "comment": ""
   },
   {
