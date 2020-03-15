@@ -8,7 +8,7 @@ function ProduceCSV(MapsData) {
 }
 
 
-function ProduceMDTable(MapsData, GameMode) {
+function ProduceMDTableByGameMode(MapsData, GameMode) {
   'use strict';
   var Result = "|Map Name|Author(s)|Comment|\n";
   Result += 
@@ -21,30 +21,30 @@ function ProduceMDTable(MapsData, GameMode) {
   return (Result);
 }    
     
-function ProduceMDTableByGameMode(MapsData) {
+function ProduceMDTable(MapsData) {
   'use strict';
   var Result = "## Deathmatch/Team DM/Hunt/Survivor Levels\n\n";
-  Result += ProduceMDTable(MapsData, "DM");
+  Result += ProduceMDTableByGameMode(MapsData, "DM");
     
   Result += "\n\n## Team Deathmatch Only Levels\n\n";
-  Result += ProduceMDTable(MapsData, "TEAMDM");
+  Result += ProduceMDTableByGameMode(MapsData, "TEAMDM");
   
   Result += "\n\n## Survivor Only Levels\n\n";
-  Result += ProduceMDTable(MapsData, "SURVIVOR");
+  Result += ProduceMDTableByGameMode(MapsData, "SURVIVOR");
   
   Result += "\n\n## Overrun Levels\n\n";
-  Result += ProduceMDTable(MapsData, "OVERRUN");
+  Result += ProduceMDTableByGameMode(MapsData, "OVERRUN");
   
   Result += "\n\n## Evac Levels\n\n";
-  Result += ProduceMDTable(MapsData, "EVAC");
+  Result += ProduceMDTableByGameMode(MapsData, "EVAC");
   
-  Result += "\n\n## Single Player Levels\n\n";
-  Result += ProduceMDTable(MapsData, "SINGLEPLAYER");
+  //Result += "\n\n## Single Player Levels\n\n";
+  //Result += ProduceMDTableByGameMode(MapsData, "SINGLEPLAYER");
     
   return (Result);
 }
 
-function ProduceTXTReport(MapsData, GameMode) {
+function ProduceTXTReportByGameMode(MapsData, GameMode) {
   'use strict';
   var Result = "";
   MapsData.forEach( (M) => {
@@ -55,7 +55,7 @@ function ProduceTXTReport(MapsData, GameMode) {
   return (Result);
 }
 
-function ProduceTXTReportByGameMode(MapsData) {
+function ProduceTXTReport(MapsData) {
   'use strict';
   var Result =
       `${"Map Name:".padEnd(42, ' ')}${"Author(s):".padEnd(60, ' ')}Other Info:\n"`;
@@ -63,22 +63,22 @@ function ProduceTXTReportByGameMode(MapsData) {
     `${"====================================".padEnd(42, ' ')}${"-----------------------------------------".padEnd(60, ' ')}**************************************************\n"`;
   
   Result += "===Deathmatch/Team DM/Hunt/Survivor Levels===\n\n";
-  Result += ProduceTXTReport(MapsData, "DM");
+  Result += ProduceTXTReportByGameMode(MapsData, "DM");
     
   Result += "\n\n===Team Deathmatch Only Levels===\n\n";
-  Result += ProduceTXTReport(MapsData, "TEAMDM");
+  Result += ProduceTXTReportByGameMode(MapsData, "TEAMDM");
   
   Result += "\n\n===Survivor Only Levels===\n\n";
-  Result += ProduceTXTReport(MapsData, "SURVIVOR");
+  Result += ProduceTXTReportByGameMode(MapsData, "SURVIVOR");
   
   Result += "\n\n===Overrun Levels===\n\n";
-  Result += ProduceTXTReport(MapsData, "OVERRUN");
+  Result += ProduceTXTReportByGameMode(MapsData, "OVERRUN");
   
   Result += "\n\n===Evac Levels===\n\n";
-  Result += ProduceTXTReport(MapsData, "EVAC");
+  Result += ProduceTXTReportByGameMode(MapsData, "EVAC");
   
-  Result += "\n\n===Single Player Levels===\n\n";
-  Result += ProduceTXTReport(MapsData, "SINGLEPLAYER");
+  //Result += "\n\n===Single Player Levels===\n\n";
+  //Result += ProduceTXTReportByGameMode(MapsData, "SINGLEPLAYER");
     
   return (Result);
 }
