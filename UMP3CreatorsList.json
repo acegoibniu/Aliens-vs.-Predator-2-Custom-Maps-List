@@ -535,6 +535,12 @@
   },
   {
     "mode": "DM",
+    "name": "DESOLATION",
+    "creator": "Hudson Hicks Ontario",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "DESOLATION_2",
     "creator": "Hudson Hicks Ontario",
     "comment": ""
@@ -1939,6 +1945,12 @@
   },
   {
     "mode": "DM",
+    "name": "END_OF_DAYS",
+    "creator": "Hudson Hicks Ontario",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "FIORINAS_LEAD_COMPLEX",
     "creator": "JP54",
     "comment": ""
@@ -3272,6 +3284,12 @@
   {
     "mode": "EVAC",
     "name": "DM_MARINEBASE",
+    "creator": "Hudson Hicks Ontario",
+    "comment": ""
+  },
+  {
+    "mode": "EVAC",
+    "name": "END_OF_DAYS",
     "creator": "Hudson Hicks Ontario",
     "comment": ""
   },
