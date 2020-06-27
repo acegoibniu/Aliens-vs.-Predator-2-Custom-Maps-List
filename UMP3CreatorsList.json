@@ -883,6 +883,12 @@
   },
   {
     "mode": "DM",
+    "name": "DM_BW.SpacePlatform",
+    "creator": "{B.W.} J1015814",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "DM_BW.STEADFAST",
     "creator": "{B.W.} Hudson",
     "comment": ""
@@ -1077,6 +1083,12 @@
     "mode": "DM",
     "name": "DM_ELECTROTURD",
     "creator": "Phil 'Windebieste' Wlodarczyk",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
+    "name": "DM_END_OF_DAYS",
+    "creator": "Hudson Hicks Ontario",
     "comment": ""
   },
   {
@@ -1323,6 +1335,12 @@
     "mode": "DM",
     "name": "DM_LABYRINTH",
     "creator": "Artalavista",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
+    "name": "DM_LAIR_O_THE_APE",
+    "creator": "Chris 'Tutonic Monkey' Hoge",
     "comment": ""
   },
   {
@@ -1941,12 +1959,6 @@
     "mode": "DM",
     "name": "EGC_ALPHASITE",
     "creator": "=EGC= Osiris {CL} a.k.a. (Osiris)",
-    "comment": ""
-  },
-  {
-    "mode": "DM",
-    "name": "END_OF_DAYS",
-    "creator": "Hudson Hicks Ontario",
     "comment": ""
   },
   {
@@ -3289,12 +3301,6 @@
   },
   {
     "mode": "EVAC",
-    "name": "END_OF_DAYS",
-    "creator": "Hudson Hicks Ontario",
-    "comment": ""
-  },
-  {
-    "mode": "EVAC",
     "name": "EVAC_=SA=WINTERHEAT",
     "creator": "Iain 'iART' Bruce",
     "comment": ""
@@ -3339,6 +3345,12 @@
     "mode": "EVAC",
     "name": "EVAC_DE_DAYLIGHT",
     "creator": "Dead Evil",
+    "comment": ""
+  },
+  {
+    "mode": "EVAC",
+    "name": "EVAC_END_OF_DAYS",
+    "creator": "Hudson Hicks Ontario",
     "comment": ""
   },
   {
