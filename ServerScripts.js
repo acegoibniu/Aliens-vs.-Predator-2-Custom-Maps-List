@@ -78,10 +78,54 @@ function PrintTdm(MapsData, WorldNumber) {
   return (ResultOutput);
 }
 
+function PrintDm(MapsData, WorldNumber) {
+  var ResultOutput = "";
+  
+  MapsData.forEach( (M) => {
+    
+    if (M.mode.toUpperCase() == "DM") {
+      ResultOutput += `[World${WorldNumber[0]}]\n`;
+      ResultOutput += `World = \"worlds\\multi\\${M.mode}\\${M.name}\"\n`;
+      ResultOutput += `Name = \"dm-${M.name}\"\n`;
+      ResultOutput += `GameType = 1\nTimeLimit = 1800\n`;
+      ResultOutput += `ClassWeapons = 1\n`;
+      ResultOutput += `MaxPlayers0 = 8\nMaxPlayers1 = 8\n`;
+      ResultOutput += `MaxPlayers2 = 8\nMaxPlayers3 = 8\n`;
+      ResultOutput += `QueenMolt = 5\nExosuit = 0\n`;
+      ResultOutput += '\n';
+      ++WorldNumber[0];
+    } 
+  });
+  
+  return (ResultOutput);
+}
+
+
+function PrintHunt(MapsData, WorldNumber) {
+  var ResultOutput = "";
+  
+  MapsData.forEach( (M) => {
+    
+    if (M.mode.toUpperCase() == "DM") {
+      ResultOutput += `[World${WorldNumber[0]}]\n`;
+      ResultOutput += `World = \"worlds\\multi\\${M.mode}\\${M.name}\"\n`;
+      ResultOutput += `Name = \"hunt-${M.name}\"\n`;
+      ResultOutput += `GameType = 3\nTimeLimit = 1200\n`;
+      ResultOutput += `FragLimit = 25\n`;
+      ResultOutput += '\n';
+      ++WorldNumber[0];
+    } 
+  });
+  
+  return (ResultOutput);
+}
+
 var WorldNumba = [1];
 var FullOutput = "";
 FullOutput += PrintSurv(UMP3Maps, WorldNumba);
 FullOutput += PrintEvac(UMP3Maps, WorldNumba);
 FullOutput += PrintTdm(UMP3Maps, WorldNumba);
+FullOutput += PrintDm(UMP3Maps, WorldNumba);
+FullOutput += PrintHunt(UMP3Maps, WorldNumba);
 
 console.log(FullOutput);
