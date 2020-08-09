@@ -284,7 +284,7 @@
   {
     "mode": "DM",
     "name": "AbandonedDepot",
-    "creator": "Jeff 'The One' Attwood",
+    "creator": "Jeff 'The_One' Attwood",
     "comment": ""
   },
   {
@@ -482,7 +482,7 @@
   {
     "mode": "DM",
     "name": "CTF-November",
-    "creator": "Jeff 'The One' Attwood",
+    "creator": "Jeff 'The_One' Attwood",
     "comment": ""
   },
   {
@@ -657,6 +657,12 @@
     "mode": "DM",
     "name": "DM_AVPPIRAMID",
     "creator": "Nivel 426",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
+    "name": "dm_awoken",
+    "creator": "JP54",
     "comment": ""
   },
   {
@@ -962,7 +968,7 @@
   {
     "mode": "DM",
     "name": "dm_champ-666",
-    "creator": "Jeff 'The One' Attwood",
+    "creator": "Jeff 'The_One' Attwood",
     "comment": ""
   },
   {
@@ -1675,6 +1681,12 @@
   },
   {
     "mode": "DM",
+    "name": "dm_silo",
+    "creator": "Jeff 'The_One' Attwood",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
     "name": "DM_SLAUGHTERHOUSE",
     "creator": "KrazeD",
     "comment": ""
@@ -1843,6 +1855,12 @@
   },
   {
     "mode": "DM",
+    "name": "dm_valleyofdeath",
+    "creator": "DoomGuy",
+    "comment": "Used section of m1s1 as a base"
+  },
+  {
+    "mode": "DM",
     "name": "DM_WAREHOUSE",
     "creator": "Bastiaan 'Aquaflight' Pot",
     "comment": ""
@@ -1934,7 +1952,7 @@
   {
     "mode": "DM",
     "name": "DM-DECK16][",
-    "creator": "Jeff 'The One' Attwood",
+    "creator": "Jeff 'The_One' Attwood",
     "comment": ""
   },
   {
@@ -1946,7 +1964,7 @@
   {
     "mode": "DM",
     "name": "DM-PYRAMID",
-    "creator": "Jeff 'The One' Attwood",
+    "creator": "Jeff 'The_One' Attwood",
     "comment": ""
   },
   {
