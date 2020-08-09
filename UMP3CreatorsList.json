@@ -139,12 +139,6 @@
   },
   {
     "mode": "DM",
-    "name": "=ARC=STATION41A",
-    "creator": "=ARC='s Andy 'Flyte/Flying Scotsman' Pennington",
-    "comment": ""
-  },
-  {
-    "mode": "DM",
     "name": "=ARC=SUB-BASE",
     "creator": "=ARC='s Gobo5",
     "comment": ""
@@ -3278,6 +3272,12 @@
   {
     "mode": "EVAC",
     "name": "=ARC=PREDATOR",
+    "creator": "=ARC='s Andy 'Flyte/Flying Scotsman' Pennington",
+    "comment": ""
+  },
+  {
+    "mode": "DM",
+    "name": "=ARC=STATION41A",
     "creator": "=ARC='s Andy 'Flyte/Flying Scotsman' Pennington",
     "comment": ""
   },
