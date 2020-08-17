@@ -2923,6 +2923,12 @@
   },
   {
     "mode": "DM",
+    "name": "SK_VALLEYOFDEATH",
+    "creator": "DoomGuy",
+    "comment": "Used section of m1s1 as a base"
+  },
+  {
+    "mode": "DM",
     "name": "SK_ZELFMOORDMISSIE",
     "creator": "Wesley 'RavagerDX' Donker",
     "comment": ""
