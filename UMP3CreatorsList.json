@@ -525,7 +525,7 @@
     "mode": "DM",
     "name": "DEMOCOOP_STRANDED",
     "creator": "OOedd",
-    "comment": "Coop Map"
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
@@ -795,7 +795,7 @@
     "mode": "DM",
     "name": "DM_BW.CATHERADRAL",
     "creator": "{B.W.} Hudson",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
@@ -855,25 +855,25 @@
     "mode": "DM",
     "name": "DM_BW.MAYHEM2",
     "creator": "{B.W.} NeTRiDeR",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "DM_BW.MAYHEM3",
     "creator": "{B.W.} NeTRiDeR",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "DM_BW.MECHWARRIORS",
     "creator": "{B.W.} NeTRiDeR",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "DM_BW.NETSMAYHEM",
     "creator": "{B.W.} NeTRiDeR",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
@@ -909,13 +909,13 @@
     "mode": "DM",
     "name": "DM_CANUMAKEIT_V1.1",
     "creator": "Wesley 'RavagerDX' Donker",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "DM_CANUMAKEIT_V2.0",
     "creator": "Wesley 'RavagerDX' Donker",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
@@ -1491,13 +1491,13 @@
     "mode": "DM",
     "name": "DM_outpost29",
     "creator": "Hudson Hicks Ontario",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "DM_outpost29SE",
     "creator": "Hudson Hicks Ontario",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
@@ -1593,7 +1593,7 @@
     "mode": "DM",
     "name": "DM_RECSTREET",
     "creator": "Imp Hunter",
-    "comment": ""
+    "comment": "COOP Skirmish Map"
   },
   {
     "mode": "DM",
@@ -1833,7 +1833,7 @@
     "mode": "DM",
     "name": "DM_USMG.ASSAULT",
     "creator": "United States Marine Grunts",
-    "comment": ""
+    "comment": "COOP Map"
   },
   {
     "mode": "DM",
@@ -1887,7 +1887,7 @@
     "mode": "DM",
     "name": "DM_WEYLAND",
     "creator": "Hudson Hicks Ontario",
-    "comment": ""
+    "comment": "COOP Skirmish Map"
   },
   {
     "mode": "DM",
@@ -2247,7 +2247,7 @@
     "mode": "DM",
     "name": "GLADIATOR",
     "creator": "Phil 'Windebieste' Wlodarczyk",
-    "comment": ""
+    "comment": "Predator COOP Skirmish Map"
   },
   {
     "mode": "DM",
@@ -2457,7 +2457,7 @@
     "mode": "DM",
     "name": "LITE_BREAKDOWN",
     "creator": "Modmaker",
-    "comment": ""
+    "comment": "COOP Skirmish Map"
   },
   {
     "mode": "DM",
@@ -2643,7 +2643,7 @@
     "mode": "DM",
     "name": "PLACEOFDEATH",
     "creator": "HHC Hicks",
-    "comment": ""
+    "comment": "COOP Skirmish Map"
   },
   {
     "mode": "DM",
@@ -2691,7 +2691,7 @@
     "mode": "DM",
     "name": "RAS_ODSURVIVAL",
     "creator": "Rasirez",
-    "comment": ""
+    "comment": "COOP Skirmish Map"
   },
   {
     "mode": "DM",
@@ -2853,7 +2853,7 @@
     "mode": "DM",
     "name": "RTS2",
     "creator": "Coty",
-    "comment": ""
+    "comment": "COOP Skirmish Map"
   },
   {
     "mode": "DM",
@@ -2901,55 +2901,55 @@
     "mode": "DM",
     "name": "SK_ALONERSFATE",
     "creator": "Phil 'Windebieste' Wlodarczyk",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "SK_NUCLEAR1.5",
     "creator": "Cyburk",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "SK_PRECIPICE",
     "creator": "Phil 'Windebieste' Wlodarczyk",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "SK_RUINOUS",
     "creator": "Phil 'Windebieste' Wlodarczyk",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "SK_VALLEYOFDEATH",
     "creator": "DoomGuy",
-    "comment": "Used section of m1s1 as a base"
+    "comment": "Used section of m1s1 as a base, skirmish map"
   },
   {
     "mode": "DM",
     "name": "SK_ZELFMOORDMISSIE",
     "creator": "Wesley 'RavagerDX' Donker",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "SKM_STRANDED_REDUX",
     "creator": "Phil 'Windebieste' Wlodarczyk",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "SKM_TARBABY",
     "creator": "Phil 'Windebieste' Wlodarczyk",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
     "name": "SKP_STRANDED_REDUX",
     "creator": "Phil 'Windebieste' Wlodarczyk",
-    "comment": ""
+    "comment": "COOP Skirmish map"
   },
   {
     "mode": "DM",
@@ -3009,7 +3009,7 @@
     "mode": "DM",
     "name": "STRANDED12",
     "creator": "Coty",
-    "comment": ""
+    "comment": "COOP Skirmish Map"
   },
   {
     "mode": "DM",
@@ -3063,7 +3063,7 @@
     "mode": "DM",
     "name": "TDS_TRAINING",
     "creator": "[TDS]Claws n Jaws",
-    "comment": ""
+    "comment": "COOP Skirmish Map"
   },
   {
     "mode": "DM",
@@ -3153,7 +3153,7 @@
     "mode": "DM",
     "name": "UNCLASSIFIED_TRAININGCENTER",
     "creator": "The Troglodyte",
-    "comment": ""
+    "comment": "COOP Skirmish Map"
   },
   {
     "mode": "DM",
