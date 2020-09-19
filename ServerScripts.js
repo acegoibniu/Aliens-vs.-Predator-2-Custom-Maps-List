@@ -64,7 +64,7 @@ function PrintTdm(MapsData, WorldNumber) {
       ResultOutput += `[World${WorldNumber[0]}]\n`;
       ResultOutput += `World = \"worlds\\multi\\${M.mode}\\${M.name}\"\n`;
       ResultOutput += `Name = \"tdm-${M.name}\"\n`;
-      ResultOutput += `GameType = 2\nTimeLimit = 900\n`;
+      ResultOutput += `GameType = 2\nTimeLimit = 1500\n`;
       
       ResultOutput += `QueenMolt = 5\nClassWeapons = 1\n`;
       ResultOutput += `MaxPlayers0 = 6\nMaxPlayers1 = 6\n`;
@@ -87,7 +87,7 @@ function PrintDm(MapsData, WorldNumber) {
       ResultOutput += `[World${WorldNumber[0]}]\n`;
       ResultOutput += `World = \"worlds\\multi\\${M.mode}\\${M.name}\"\n`;
       ResultOutput += `Name = \"dm-${M.name}\"\n`;
-      ResultOutput += `GameType = 1\nTimeLimit = 1800\n`;
+      ResultOutput += `GameType = 1\nTimeLimit = 1500\n`;
       ResultOutput += `ClassWeapons = 1\n`;
       ResultOutput += `MaxPlayers0 = 8\nMaxPlayers1 = 8\n`;
       ResultOutput += `MaxPlayers2 = 8\nMaxPlayers3 = 8\n`;
