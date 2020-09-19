@@ -1,10 +1,8 @@
 # Complete Custom Map List with authors' names or aliases
 
->Note : There are maps where the creator is unknown and unable to be listed
->     {UNK}: The mapper is unknown
+>Note : There are maps where the creator is unknown and unable to be listed. Please let us know if you know the name or alias of the author that created the map or send us any corrections.
 
 ## Deathmatch/Team DM/Hunt/Survivor Levels
-
 |Map Name|Author(s)|Comment|
 |---------------------------------------|---------------------------------------|---------------------------------------|
 |[DnD] Ally|Want Some Candy||
@@ -30,7 +28,6 @@
 |=ARC=NEVERMORE|=ARC='s Hevoc||
 |=ARC=PREDATOR|=ARC='s Andy 'Flyte/Flying Scotsman' Pennington||
 |=ARC=RESERVOIR2|=ARC='s Andy 'Flyte/Flying Scotsman' Pennington||
-|=ARC=STATION41A|=ARC='s Andy 'Flyte/Flying Scotsman' Pennington||
 |=ARC=SUB-BASE|=ARC='s Gobo5||
 |=ARC=ZEPPELIN|=ARC='s Hevoc||
 |=SA=_TRAINING_GROUNDS|=SA='s Lord Nikon||
@@ -48,9 +45,13 @@
 |9TH_COMMAND_BETA1|||
 |9TH-ARMYHOMEBASE|||
 |9THCMD_BATTLE_ARENA|9th CMD's Amun-Ra||
+|9THCMD_DM_NEOCOLLOSEUM|Dead Evil||
 |9THCMD_DM_PURGE|9th CMD's Gryph||
+|9THCMD_DM_SUBWAY_BETA|9th CMD's Amun-Ra||
+|9THCMD_DM_THE HIVEBETA4|Dark Angael||
+|9THCMD_DM_THE_ROCK|Poet||
 |9THCMD_STARGATE|9th CMD's Amun-Ra||
-|AbandonedDepot|Jeff 'The One' Attwood||
+|AbandonedDepot|Jeff 'The_One' Attwood||
 |ACID_REFLUX|Mark 'Karnivore' Gill||
 |AGREATERHOPE|9th CMD's Gryph||
 |AI_KAZE002_BAKA|Tamachi Kazeyomi||
@@ -83,7 +84,7 @@
 |CROSSFIRE|Hudson Hicks Ontario||
 |CS_ASSAULT|[IL]Cat-Like-Thief or 'Cat-Like-Thief'||
 |CTF_JUNGLE|Red Riot||
-|CTF-November|Jeff 'The One' Attwood||
+|CTF-November|Jeff 'The_One' Attwood||
 |cyb_nebel|Cyburk||
 |DAMAGED|Hudson Hicks Ontario||
 |Dark Surprise|Dark Shadow||
@@ -91,7 +92,8 @@
 |DARKTOWERS|||
 |DE_DUST|Alz||
 |DEADLY_GROUND|Hudson Hicks Ontario||
-|DEMOCOOP_STRANDED|OOedd|Coop Map|
+|DEMOCOOP_STRANDED|OOedd|COOP Skirmish map|
+|DESOLATION|Hudson Hicks Ontario||
 |DESOLATION_2|Hudson Hicks Ontario||
 |DIE_HARD|Hudson Hicks Ontario||
 |DM_[BLITZ]-BASTARDS-(SNOW)|[Blitz] Hammer||
@@ -112,9 +114,10 @@
 |DM_AMAROK|Nivel 426||
 |DM_ANTARTICA|Nivel 426 M1 & Toxic||
 |DM_AVPPIRAMID|Nivel 426||
+|dm_awoken|JP54||
 |DM_BACKSTREETS|Phil 'Windebieste' Wlodarczyk||
 |DM_BACKSTREETS_V1-2|Phil 'Windebieste' Wlodarczyk||
-|dm_BADSCIENCE|C. 'Tutonic Monkey' Hoge & HHO|Orginial C. Hoge map finished by HHO|
+|dm_BADSCIENCE|Chris 'Tutonic Monkey' Hoge & HHO|Orginial C. Hoge map finished by HHO|
 |DM_BASE-13F|Hunter-T||
 |DM_BASETOWER|||
 |DM_BEAVERCREEK|Jeff 'The_One' Attwood||
@@ -134,9 +137,9 @@
 |DM_BW.BATTLECRUISER|{B.W.} J1015814||
 |DM_BW.BATTLECRUISER-SM|{B.W.} J1015814||
 |DM_BW.CARGO|{B.W.} J1015814||
-|DM_BW.CATHERADRAL|{B.W.} Hudson||
+|DM_BW.CATHERADRAL|{B.W.} Hudson|COOP Skirmish map|
 |DM_BW.DOME|{B.W.} NeTRiDeR||
-|DM_BW.FORTREES|{B.W.} Hudson||
+|DM_BW.FORTREES|{B.W.} NeTRiDeR||
 |DM_BW.INFESTATION|{B.W.} J1015814||
 |DM_BW.JUNGLEHUNT|{B.W.} Hudson||
 |DM_BW.LAB4|{B.W.} Hudson||
@@ -144,16 +147,17 @@
 |Dm_BW.LV12012|{B.W.} Hudson||
 |DM_BW.LV908|{B.W.} Hudson||
 |DM_BW.LV908SHORT|{B.W.} Hudson||
-|DM_BW.MAYHEM2|{B.W.} NeTRiDeR||
-|DM_BW.MAYHEM3|{B.W.} NeTRiDeR||
-|DM_BW.MECHWARRIORS|{B.W.} NeTRiDeR||
-|DM_BW.NETSMAYHEM|{B.W.} NeTRiDeR||
+|DM_BW.MAYHEM2|{B.W.} NeTRiDeR|COOP Skirmish map|
+|DM_BW.MAYHEM3|{B.W.} NeTRiDeR|COOP Skirmish map|
+|DM_BW.MECHWARRIORS|{B.W.} NeTRiDeR|COOP Skirmish map|
+|DM_BW.NETSMAYHEM|{B.W.} NeTRiDeR|COOP Skirmish map|
 |DM_BW.SALVAGE|{B.W.} Hudson||
+|DM_BW.SpacePlatform|{B.W.} J1015814||
 |DM_BW.STEADFAST|{B.W.} Hudson||
 |DM_BW.SULACO|{B.W.} Hudson||
 |DM_CALIMA_TOX|Nivel 426's Toxic||
-|DM_CANUMAKEIT_V1.1|Wesley 'RavagerDX' Donker||
-|DM_CANUMAKEIT_V2.0|Wesley 'RavagerDX' Donker||
+|DM_CANUMAKEIT_V1.1|Wesley 'RavagerDX' Donker|COOP Skirmish map|
+|DM_CANUMAKEIT_V2.0|Wesley 'RavagerDX' Donker|COOP Skirmish map|
 |DM_CASTAWAY|Red Riot||
 |DM_CASTAWAY_STORM|Red Riot||
 |DM_cave|Unknown Orig. Author & HHO|HHO finished and released the map|
@@ -161,7 +165,7 @@
 |DM_CELTIC_WEYLAND|Zeratul||
 |DM_CELTIC-YAUTJAN|Le Celticant||
 |DM_CENTRALDEAD_TOX|Nivel 426's Toxic||
-|dm_champ-666|Jeff 'The One' Attwood||
+|dm_champ-666|Jeff 'The_One' Attwood||
 |DM_CITY|Hunter-T||
 |DM_CITY2|Nivel 426||
 |DM_COLMENA|Nivel 426||
@@ -180,7 +184,9 @@
 |DM_DROPZONE|Third Law Int.||
 |DM_DROWNEDWORLD|Phil 'Windebieste' Wlodarczyk||
 |DM_DROWNEDWORLD_V1-2|Phil 'Windebieste' Wlodarczyk||
+|dm_drydock|Phil 'Windebieste' Wlodarczyk||
 |DM_ELECTROTURD|Phil 'Windebieste' Wlodarczyk||
+|DM_END_OF_DAYS|Hudson Hicks Ontario||
 |DM_FACTION|Le Celticant||
 |DM_FARM VBETA|RedNeck Gamer a.k.a. Red||
 |DM_FFPS_AVP2_VS_UT_DECK16-V2_WH|Warhammer of TPB||
@@ -211,21 +217,23 @@
 |DM_INDUSTRY2|David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777||
 |DM_INFERNO_BETA5|Count Phil||
 |dm_infestation|Want Some Candy||
-|DM_INFESTED|Want Some Candy||
+|DM_INFESTED|STEF1204 of 101st||
 |DM_INNERBASE_B10|Syntron||
 |DM_InSpaceNoOneCanHearYouScream|Chris 'Tutonic Monkey' Hoge||
 |DM_ISLAND|T kenny||
-|dm_ISOS_PredTemple|C. Hoge & HHO|A map built off of one of C. Hoge's levels.|
+|dm_ISOS_PredTemple|Chris 'Tutonic Monkey' Hoge & HHO|A map built off of one of C. Hoge's levels.|
 |DM_JUNGLE|Red Riot||
 |DM_JUNGLE_NOBUNK|Red Riot||
 |dm_kapitalisme|Jim Gaul||
 |DM_KILLBOX|Yesugei||
 |DM_LAB_TOX|Nivel 426's Toxic||
 |DM_LABYRINTH|Artalavista||
+|DM_LAIR_O_THE_APE|Chris 'Tutonic Monkey' Hoge||
 |DM_LAVAFIELDS|9th CMD's Amun-Ra||
 |DM_LEADEXTREMES|Im_Ultimate_Badass a.k.a. {X71}Fantasy||
 |DM_LOBBY|Celtic Elder Z3rATuL alias Monsieur_Z3rA||
 |DM_Lockdown|Unknown Orig. Author & HHO|HHO finished and released the map.|
+|dm_lockout|Jeff 'The_One' Attwood||
 |DM_Loki_Station|Matthew 'Emerald Yautja' Schiller||
 |DM_LOST_CARGO|Mr Potatohead||
 |DM_LV666|Yareq of [DH]||
@@ -245,8 +253,8 @@
 |DM_ORION|Brian 'PsyKore' Irving||
 |DM_ORIONSFATE|{X71} Fantasy||
 |DM_OUTCAST|Nivel 426||
-|DM_outpost29|Hudson Hicks Ontario||
-|DM_outpost29SE|Hudson Hicks Ontario||
+|DM_outpost29|Hudson Hicks Ontario|COOP Skirmish map|
+|DM_outpost29SE|Hudson Hicks Ontario|COOP Skirmish map|
 |dm_outpost54|JP54||
 |DM_OVERWATCH|Kevin 'Trick' Standley a.k.a. Trickie||
 |DM_PDTEMPLE|Ctellis156||
@@ -262,7 +270,7 @@
 |DM_PROCESSOR|SuperMarks(KonkeyDong99)||
 |DM_PURGATORY|Cyburk||
 |DM_REAL_HADLEYS_HOPE|Nivel 426||
-|DM_RECSTREET|Imp Hunter||
+|DM_RECSTREET|Imp Hunter|COOP Skirmish Map|
 |DM_RED_STORAGE_LEVEL|Nivel 426's M2 & M3||
 |DM_REMIX1_INDUSTRY|David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777||
 |DM_REMIX2_INDUSTRY|David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777||
@@ -276,6 +284,7 @@
 |DM_SATANICSANCTUARY_WAR.MACHINE|The Troglodyte||
 |DM_SCRAMBLEOMEGA|SK_Dragonic_Valley||
 |DM_SHAFTS|Phil 'Windebieste' Wlodarczyk||
+|dm_silo|Jeff 'The_One' Attwood||
 |DM_SLAUGHTERHOUSE|KrazeD||
 |DM_SMCAVERN|Yesugei||
 |DM_SMUGGLER|||
@@ -289,25 +298,28 @@
 |DM_STEAM|Arjan||
 |DM_STEAM_FINAL|Arjan||
 |DM_STOMPINGGROUND_01|Snoball||
+|DM_STORAGEYARD|JP54||
 |DM_STRANDED_REDUX|Phil 'Windebieste' Wlodarczyk||
 |DM_SUBWAY_REDUX|Phil 'Windebieste' Wlodarczyk||
 |DM_SUICIDE|HHC Hicks||
 |DM_TARBABY|Phil 'Windebieste' Wlodarczyk||
+|DM_TEMPLE|JP54||
 |DM_TERRAFORM|Ken 'Dutch [K]' Hawver||
 |DM_THE_PYRAMID|Nivel 426||
 |DM_TPB_AVP2_VS_UT_PRESSURE_WH|Warhammer||
 |DM_TRAX|Hudson Hicks Ontario||
 |DM_TRIPLECOLLISION|Gabor||
 |DM_TROLLFORT|The Troglodyte||
-|DM_USMG.ASSAULT|United States Marine Grunts||
+|DM_USMG.ASSAULT|United States Marine Grunts|COOP Map|
 |DM_UVAJED|Third Law Int.||
 |DM_Vague|Deathmancer||
+|dm_valleyofdeath|DoomGuy|Used section of m1s1 as a base|
 |DM_WAREHOUSE|Bastiaan 'Aquaflight' Pot||
 |DM_WAREHOUSE2|Seph|Originally named dm_warehouse, First custom multiplayer map released|
 |DM_WARPED|Arjan||
 |DM_WATERFACILITY|Wesley 'RavagerDX' Donker||
 |DM_WESTEND|Fart Head {TBW}||
-|DM_WEYLAND|Hudson Hicks Ontario||
+|DM_WEYLAND|Hudson Hicks Ontario|COOP Skirmish Map|
 |DM_worx|Unknown Orig. Author & HHO|HHO finished and released this map.|
 |DM_WY_COMPLEX|Celtic Elder Z3rATuL a.k.a. Monsieur_Z3rA||
 |DM_XENOCORTEX|Phil 'Windebieste' Wlodarczyk & PsyKore|Phil W. finished and released this map.|
@@ -317,9 +329,9 @@
 |DM_YELLOW_TOX|Nivel 426's Toxic||
 |DM_ZEBRA1|Robert Hesketh||
 |DM1_BREAKDOWN|Modmaker||
-|DM-DECK16][|Jeff 'The One' Attwood||
+|DM-DECK16][|Jeff 'The_One' Attwood||
 |DMH_FRACTURE|[DMH]Gahn'tha-Rath||
-|DM-PYRAMID|Jeff 'The One' Attwood||
+|DM-PYRAMID|Jeff 'The_One' Attwood||
 |DSRS-17|DeathMancer||
 |EGC_ALPHASITE|=EGC= Osiris {CL} a.k.a. (Osiris)||
 |FIORINAS_LEAD_COMPLEX|JP54||
@@ -367,7 +379,7 @@
 |FUSIONREACTOR|Deadfret [fu]||
 |GASOLINATION|Artalavista||
 |GHOSTSHIP|Joel 'Cookiepuss' Smith||
-|GLADIATOR|Phil 'Windebieste' Wlodarczyk||
+|GLADIATOR|Phil 'Windebieste' Wlodarczyk|Predator COOP Skirmish Map|
 |GLASSDEATH|Imp Hunter||
 |GRAVEYARD|Artalavista||
 |HALO_BOARDINGACTION|[DMH]Ka'Tor-rath||
@@ -402,7 +414,7 @@
 |lc_space-pods|Le Celticant||
 |LC_WEYLAND-YUTANI_STATION|Le Celticant||
 |LC_WY_RESEARCH-FACILITY|Le Celticant||
-|LITE_BREAKDOWN|Modmaker||
+|LITE_BREAKDOWN|Modmaker|COOP Skirmish Map|
 |LK_ABANDONALLHOPEYEWHOENTERTHEBUGMIDDEN|Long Knives||
 |LK_THEBUGHOUSE|Long Knives||
 |lk_Vertigo_station 2|Pat 'Longknives' Borden||
@@ -433,7 +445,7 @@
 |OUTERLIMITS_2AT_NIGHT|Hudson Hicks Ontario||
 |PA_POTBEBOP|||
 |PITCHBLACK|9th CMD's Poet||
-|PLACEOFDEATH|HHC Hicks||
+|PLACEOFDEATH|HHC Hicks|COOP Skirmish Map|
 |PLAYGROUND|||
 |ProcessingStation18|Chris 'Tutonic Monkey' Hoge||
 |Pump_Station|Hudson Hicks Ontario||
@@ -441,7 +453,7 @@
 |RAIDERS|Hudson Hicks Ontario||
 |RAIDERS_3|Hudson Hicks Ontario||
 |RAIDERS_SPECIALEDITION_2|Hudson Hicks Ontario||
-|RAS_ODSURVIVAL|Rasirez||
+|RAS_ODSURVIVAL|Rasirez|COOP Skirmish Map|
 |RATZ|Yesugei||
 |RC_ADARKKERFATE_V1_4F|Redclaw||
 |RC_DANTES_INFERNO_UPPERHELL_V1|Redclaw||
@@ -468,7 +480,7 @@
 |RFW_HADLEYS_HOPE|RFW Clan||
 |RINGMASTER|Hudson Hicks Ontario||
 |ROCK_STEADY|Hudson Hicks Ontario||
-|RTS2|Coty||
+|RTS2|Coty|COOP Skirmish Map|
 |RUMBLE_2_FX|Hudson Hicks Ontario||
 |RUMBLE1FX|Hudson Hicks Ontario||
 |Safe|Nivel 426||
@@ -476,14 +488,15 @@
 |SE_Street|Imp Hunter||
 |SHIP_WARS|Hudson Hicks Ontario||
 |SHIPYARD|Hudson Hicks Ontario||
-|SK_ALONERSFATE|Phil 'Windebieste' Wlodarczyk||
-|SK_NUCLEAR1.5|Cyburk||
-|SK_PRECIPICE|Phil 'Windebieste' Wlodarczyk||
-|SK_RUINOUS|Phil 'Windebieste' Wlodarczyk||
-|SK_ZELFMOORDMISSIE|Wesley 'RavagerDX' Donker||
-|SKM_STRANDED_REDUX|Phil 'Windebieste' Wlodarczyk||
-|SKM_TARBABY|Phil 'Windebieste' Wlodarczyk||
-|SKP_STRANDED_REDUX|Phil 'Windebieste' Wlodarczyk||
+|SK_ALONERSFATE|Phil 'Windebieste' Wlodarczyk|COOP Skirmish map|
+|SK_NUCLEAR1.5|Cyburk|COOP Skirmish map|
+|SK_PRECIPICE|Phil 'Windebieste' Wlodarczyk|COOP Skirmish map|
+|SK_RUINOUS|Phil 'Windebieste' Wlodarczyk|COOP Skirmish map|
+|SK_VALLEYOFDEATH|DoomGuy|Used section of m1s1 as a base, COOP skirmish map|
+|SK_ZELFMOORDMISSIE|Wesley 'RavagerDX' Donker|COOP Skirmish map|
+|SKM_STRANDED_REDUX|Phil 'Windebieste' Wlodarczyk|COOP Skirmish map|
+|SKM_TARBABY|Phil 'Windebieste' Wlodarczyk|COOP Skirmish map|
+|SKP_STRANDED_REDUX|Phil 'Windebieste' Wlodarczyk|COOP Skirmish map|
 |SNACKLAB|Drex||
 |SNIPERZONE 2|Hudson Hicks Ontario||
 |SNIPERZONE|Hudson Hicks Ontario||
@@ -493,7 +506,7 @@
 |STAR_WARS_2|Hudson Hicks Ontario||
 |STAR_WARS_3|Hudson Hicks Ontario||
 |Station_51|Tutonic Monkey, The One, & HHO|HHO finished and released this map|
-|STRANDED12|Coty||
+|STRANDED12|Coty|COOP Skirmish Map|
 |SURVIVORTOWER|Tz||
 |SW_bespin_v2|Hudson Hicks Ontario||
 |SW_DEATHSTAR|Hudson Hicks Ontario||
@@ -502,7 +515,7 @@
 |SW_TATOOINE|Artalavista||
 |T.I-HQ|Inferno Magma||
 |TDS_DM_POD|[TDS]Claws n Jaws||
-|TDS_TRAINING|[TDS]Claws n Jaws||
+|TDS_TRAINING|[TDS]Claws n Jaws|COOP Skirmish Map|
 |THE FRAG BOX|Chris 'Tutonic Monkey' Hoge||
 |THE_THING_V1|Hudson Hicks Ontario||
 |THE_THING_V2|Hudson Hicks Ontario||
@@ -517,7 +530,7 @@
 |TUMMYS_ALIEN_BASEBALL.|Tummy & Amun-Ra of 9th CMD||
 |UFO|Hudson Hicks Ontario||
 |UFO_2007|Hudson Hicks Ontario||
-|UNCLASSIFIED_TRAININGCENTER|The Troglodyte||
+|UNCLASSIFIED_TRAININGCENTER|The Troglodyte|COOP Skirmish Map|
 |UNDERGROUND_1|Hudson Hicks Ontario||
 |UNDERGROUND_2|Hudson Hicks Ontario||
 |UndergroundWaterMines|Dark Shadow||
@@ -531,6 +544,7 @@
 |WAR_GAME|Hudson Hicks Ontario||
 |WaterStation|Chris 'Tutonic Monkey' Hoge||
 |WATERYGRAVE|Joel 'Cookiepuss' Smith||
+|WC|Roman Friedl||
 |WEYLAND YUTANI BASE 1|Hudson Hicks Ontario||
 |weyland|Hudson Hicks Ontario||
 |WEYLAND_LOI|Hudson Hicks Ontario||
@@ -595,8 +609,11 @@
 |=ARC=JUNGLE2DAY|=ARC='s Andy 'Flyte/Flying Scotsman' Pennington||
 |=ARC=JUNGLE2NIGHT|=ARC='s Andy 'Flyte/Flying Scotsman' Pennington||
 |=ARC=PREDATOR|=ARC='s Andy 'Flyte/Flying Scotsman' Pennington||
+|=ARC=STATION41A|=ARC='s Andy 'Flyte/Flying Scotsman' Pennington||
 |9thCMD_EVAC_AQUADUCTS|9th CMD's Poet||
 |9thCMD_EVAC_LAVAFIELDS|9th CMD's Amun-Ra||
+|9THCMD_EVAC_SUBWAY_BETA|9th CMD's Amun-Ra||
+|9THCMD_EVAC_THE_ROCK|9th CMD's Poet||
 |DE_DUST|Alz||
 |DM_MARINEBASE|Hudson Hicks Ontario||
 |EVAC_=SA=WINTERHEAT|Iain 'iART' Bruce||
@@ -606,19 +623,22 @@
 |EVAC_CASTAWAY_STORM|Red Riot||
 |EVAC_CYB_MOOR|Cyburk||
 |EVAC_CYB_NEBEL 1.1|Cyburk||
-|EVAC_DE_DAYLIGHT|||
+|EVAC_DE_DAYLIGHT|Dead Evil||
+|EVAC_END_OF_DAYS|Hudson Hicks Ontario||
 |EVAC_INDUSTRY|David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777||
 |EVAC_JUNGLE_PASSWORD|Red Riot||
 |EVAC_JUNGLE_STANDARD|Red Riot||
 |EVAC_LEADWORKS|Imp Hunter||
 |EVAC_LONDON_SEWER|Joel 'Cookiepuss' Smith||
 |EVAC_MACHINE|David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777||
+|EVAC_MORIA|JP54||
+|EVAC_NOSTROMO|JP54||
 |EVAC_NUCLEAR1.5|Cyburk||
 |EVAC_OVER_SNAKEBITE|Cyburk||
 |EVAC_REMIX1_INDUSTRY|David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777||
 |EVAC_S_INDUSTRY|David 'Warmachine' Jakubowski a.k.a. Warmonkey or Bastard777||
 |evac_SQUAD_lite|Hudson Hicks Ontario||
-|EVAC_STRANDED|STEF1204  Windebieste(?)||
+|EVAC_STRANDED|STEF1204 of 101st||
 |EVAC_TERRAFORM_ALPHACLAN|Ken 'Dutch [K]' Hawver||
 |EVAC-ISOLATIONCHAMBER1.4|[EEM]Jani[FIN]||
 |FORTRESS2_evac|Hudson Hicks Ontario ||
