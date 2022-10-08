@@ -16,5 +16,6 @@ I do not think it is necessary to document every last map. A map is to be omitte
 
 
 Version History:
+Fall 2022 -- Map list is up-to-date with Ultimate Map Pack 3, also includes some fixed attributions and newer maps.
 Winter 2020 -- Added different types of files displaying the list and scripts for automatically generating those files.
 Fall 2008 -- Started compiling the list.
